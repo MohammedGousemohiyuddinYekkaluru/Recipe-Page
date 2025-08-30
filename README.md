@@ -14,7 +14,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Git Hub URL: (https://github.com/MohammedGousemohiyuddinYekkaluru/Recipe-Page.git)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: ([https://your-live-site-url.com](https://mohammedgousemohiyuddinyekkaluru.github.io/Recipe-Page/))
 
 ## My process
 
@@ -53,9 +53,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Practiced responsive design with media queries.
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@MohammedGousemohiyuddinYekkaluru]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/MohammedGousemohiyuddinYekkaluru))
 - Twitter - [@Mohammed1514154](https://x.com/Mohammed1514154)
 
 
